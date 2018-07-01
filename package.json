@@ -1,0 +1,17 @@
+{
+    "name": "restserver",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "nodemon": "nodemon server/server.js -e js,html,css,hbs"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.3"
+    }
+}
