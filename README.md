@@ -1,2 +1,2 @@
 ## Aplicacion restserver
-Aplicacion rest creada con nodejs,express y mongo
+Aplicacion rest creada con nodejs, express y mongo
